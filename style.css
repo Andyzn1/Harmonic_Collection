@@ -1,0 +1,82 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.img-20220223-21100799-1 {
+  width: 502px;
+  height: 668px;
+  position: absolute;
+  left: 469px;
+  top: 178px;
+}
+.the-old-photobook {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 468px;
+  top: 53px;
+  width: 503px;
+  height: 69px;
+}
+._2023-andy-zhao {
+  color: #000000;
+  text-align: center;
+  font: 400 10px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 664px;
+  top: 1005px;
+  width: 111px;
+  height: 17px;
+}
+.collection-1 {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 136px;
+  top: 367px;
+  width: 265px;
+  height: 55px;
+}
+.collection-2 {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 1039px;
+  top: 367px;
+  width: 265px;
+  height: 55px;
+}
+.collection-3 {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 136px;
+  top: 634px;
+  width: 265px;
+  height: 55px;
+}
+.collection-4 {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 1039px;
+  top: 634px;
+  width: 265px;
+  height: 55px;
+}
+
+:hover{
+    color: #FFA9D0;
+}
