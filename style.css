@@ -82,9 +82,10 @@
 }
 
 @font-face {
-    font-family: 'Uglydave';
+    font-family: 'Ugly Dave';
     src: url('UglyDaveRegular.otf') format('otf');
-  }
+}
+
 
   body {
     font-family: 'Uglydave', sans-serif;
