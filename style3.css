@@ -1,28 +1,38 @@
-.desktop-3,
-.desktop-3 * {
+.frame-3,
+.frame-3 * {
   box-sizing: border-box;
 }
-.desktop-3 {
+.frame-3 {
   background: #ffffff;
   width: 1440px;
-  height: 1024px;
+  height: 784px;
   position: relative;
   overflow: hidden;
+}
+._2023-andy-zhao {
+  color: #000000;
+  text-align: center;
+  font: 400 10px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 677px;
+  top: 767px;
+  width: 85px;
+  height: 13px;
 }
 .collection-2 {
   color: #000000;
   text-align: center;
-  font: 400 48px "Ugly Dave", sans-serif;
+  font: 400 32px "Ugly Dave", sans-serif;
   position: absolute;
   left: 587px;
-  top: 40px;
+  top: 88px;
   width: 265px;
   height: 55px;
 }
-.img20220223_21470295 {
-  width: 819px;
-  height: 561px;
+.img-20220223-21470295-1 {
+  width: 545px;
+  height: 373px;
   position: absolute;
-  left: 310px;
-  top: 231px;
+  left: 447px;
+  top: 239px;
 }
