@@ -1,80 +1,80 @@
-.desktop-1,
-.desktop-1 * {
+.frame-1,
+.frame-1 * {
   box-sizing: border-box;
 }
-.desktop-1 {
+.frame-1 {
   background: #ffffff;
   width: 1440px;
-  height: 1024px;
+  height: 784px;
   position: relative;
   overflow: hidden;
 }
 .img-20220223-21100799-1 {
-  width: 502px;
-  height: 668px;
+  width: 383px;
+  height: 510px;
   position: absolute;
-  left: 469px;
-  top: 178px;
+  left: 528px;
+  top: 160px;
 }
 .the-old-photobook {
   color: #000000;
   text-align: center;
-  font: 400 48px "Ugly Dave", sans-serif;
+  font: 400 32px "Ugly Dave", sans-serif;
   position: absolute;
-  left: 468px;
-  top: 53px;
-  width: 503px;
-  height: 69px;
+  left: 527px;
+  top: 39px;
+  width: 384px;
+  height: 53px;
 }
 ._2023-andy-zhao {
   color: #000000;
   text-align: center;
   font: 400 10px "Ugly Dave", sans-serif;
   position: absolute;
-  left: 664px;
-  top: 1005px;
-  width: 111px;
-  height: 17px;
+  left: 677px;
+  top: 767px;
+  width: 85px;
+  height: 13px;
 }
 .collection-1 {
   color: #000000;
   text-align: center;
-  font: 400 48px "Ugly Dave", sans-serif;
+  font: 400 32px "Ugly Dave", sans-serif;
   position: absolute;
-  left: 136px;
-  top: 367px;
-  width: 265px;
-  height: 55px;
+  left: 273px;
+  top: 279px;
+  width: 203px;
+  height: 42px;
 }
 .collection-2 {
   color: #000000;
   text-align: center;
-  font: 400 48px "Ugly Dave", sans-serif;
+  font: 400 32px "Ugly Dave", sans-serif;
   position: absolute;
-  left: 1039px;
-  top: 367px;
-  width: 265px;
-  height: 55px;
+  left: 963px;
+  top: 279px;
+  width: 203px;
+  height: 42px;
 }
 .collection-3 {
   color: #000000;
   text-align: center;
-  font: 400 48px "Ugly Dave", sans-serif;
+  font: 400 32px "Ugly Dave", sans-serif;
   position: absolute;
-  left: 136px;
-  top: 634px;
-  width: 265px;
-  height: 55px;
+  left: 273px;
+  top: 483px;
+  width: 203px;
+  height: 42px;
 }
 .collection-4 {
   color: #000000;
   text-align: center;
-  font: 400 48px "Ugly Dave", sans-serif;
+  font: 400 32px "Ugly Dave", sans-serif;
   position: absolute;
-  left: 1039px;
-  top: 634px;
-  width: 265px;
-  height: 55px;
+  left: 963px;
+  top: 483px;
+  width: 203px;
+  height: 42px;
 }
 
 :hover{
@@ -82,12 +82,12 @@
 }
 
 @font-face {
-    font-family: 'Ugly Dave';
+    font-family: 'Ugly dave';
     src: url('UglyDaveRegular.otf') format('otf');
+  }
+
+selector{
+    font-family: 'Ugly dave';
+    background-color: #000000;
 }
 
-
-  body {
-    font-family: 'Ugly Dave', sans-serif;
-  }
-  

@@ -1,0 +1,183 @@
+.frame-4,
+.frame-4 * {
+  box-sizing: border-box;
+}
+.frame-4 {
+  background: #ffffff;
+  width: 1440px;
+  height: 784px;
+  position: relative;
+  overflow: hidden;
+}
+._2023-andy-zhao {
+  color: #000000;
+  text-align: center;
+  font: 400 10px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 677px;
+  top: 767px;
+  width: 85px;
+  height: 13px;
+}
+.collection-3 {
+  color: #000000;
+  text-align: center;
+  font: 400 32px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 587px;
+  top: 24px;
+  width: 265px;
+  height: 55px;
+}
+.img-20220223-21510629-1 {
+  width: 910px;
+  height: 683px;
+  position: absolute;
+  left: 265px;
+  top: 75px;
+}
+.ellipse-1 {
+  background: rgba(0, 0, 0, 0.28);
+  border-radius: 50%;
+  width: 65px;
+  height: 15px;
+  position: absolute;
+  left: 455px;
+  top: 668px;
+}
+.ellipse-4 {
+  background: rgba(0, 0, 0, 0.28);
+  border-radius: 50%;
+  width: 65px;
+  height: 15px;
+  position: absolute;
+  left: 639px;
+  top: 653px;
+}
+.ellipse-6 {
+  background: rgba(0, 0, 0, 0.28);
+  border-radius: 50%;
+  width: 65px;
+  height: 15px;
+  position: absolute;
+  left: 502px;
+  top: 619.5px;
+}
+.ellipse-5 {
+  background: rgba(0, 0, 0, 0.28);
+  border-radius: 50%;
+  width: 65px;
+  height: 15px;
+  position: absolute;
+  left: 570.59px;
+  top: 638.5px;
+}
+.pigon-1 {
+  width: 81px;
+  height: 71px;
+  position: absolute;
+  left: 486px;
+  top: 556px;
+}
+.pigon-2 {
+  width: 81px;
+  height: 71px;
+  position: absolute;
+  left: 506px;
+  top: 569px;
+}
+.pigon-3 {
+  width: 81px;
+  height: 71px;
+  position: absolute;
+  left: 558px;
+  top: 575px;
+}
+.pigon-6 {
+  width: 81px;
+  height: 71px;
+  position: absolute;
+  left: 445px;
+  top: 605px;
+}
+.pigon-8 {
+  width: 81px;
+  height: 71px;
+  position: absolute;
+  left: 720px;
+  top: 591.5px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.eye1 {
+  background: #5ac92e;
+  border-radius: 50%;
+  width: 14.36px;
+  height: 14.36px;
+  position: absolute;
+  left: 499.23px;
+  top: 607.84px;
+}
+.ellipse-9 {
+  background: #2fd0ad;
+  border-radius: 50%;
+  width: 14.36px;
+  height: 14.36px;
+  position: absolute;
+  left: 540.33px;
+  top: 558.8px;
+}
+.ellipse-11 {
+  background: #6a6fb5;
+  border-radius: 50%;
+  width: 14.36px;
+  height: 14.36px;
+  position: absolute;
+  left: 612.2px;
+  top: 577.83px;
+}
+.ellipse-13 {
+  background: #df8bc2;
+  border-radius: 50%;
+  width: 14.36px;
+  height: 14.36px;
+  position: absolute;
+  left: 651.43px;
+  top: 594.33px;
+}
+.ellipse-8 {
+  background: #000000;
+  border-radius: 50%;
+  width: 4.77px;
+  height: 4.77px;
+  position: absolute;
+  left: 504.02px;
+  top: 612.63px;
+}
+.ellipse-10 {
+  background: #000000;
+  border-radius: 50%;
+  width: 4.77px;
+  height: 4.77px;
+  position: absolute;
+  left: 545.13px;
+  top: 563.6px;
+}
+.ellipse-12 {
+  background: #000000;
+  border-radius: 50%;
+  width: 4.77px;
+  height: 4.77px;
+  position: absolute;
+  left: 617px;
+  top: 582.63px;
+}
+.ellipse-14 {
+  background: #000000;
+  border-radius: 50%;
+  width: 4.77px;
+  height: 4.77px;
+  position: absolute;
+  left: 656.22px;
+  top: 599.13px;
+}

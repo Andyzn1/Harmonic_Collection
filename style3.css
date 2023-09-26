@@ -1,0 +1,28 @@
+.desktop-3,
+.desktop-3 * {
+  box-sizing: border-box;
+}
+.desktop-3 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.collection-2 {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Ugly Dave", sans-serif;
+  position: absolute;
+  left: 587px;
+  top: 40px;
+  width: 265px;
+  height: 55px;
+}
+.img20220223_21470295 {
+  width: 819px;
+  height: 561px;
+  position: absolute;
+  left: 310px;
+  top: 231px;
+}
